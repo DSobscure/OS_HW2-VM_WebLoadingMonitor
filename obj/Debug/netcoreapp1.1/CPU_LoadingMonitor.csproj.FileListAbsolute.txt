@@ -1,0 +1,8 @@
+/home/vm/CPU_LoadingMonitor/bin/Debug/netcoreapp1.1/CPU_LoadingMonitor.deps.json
+/home/vm/CPU_LoadingMonitor/bin/Debug/netcoreapp1.1/CPU_LoadingMonitor.runtimeconfig.json
+/home/vm/CPU_LoadingMonitor/bin/Debug/netcoreapp1.1/CPU_LoadingMonitor.runtimeconfig.dev.json
+/home/vm/CPU_LoadingMonitor/bin/Debug/netcoreapp1.1/CPU_LoadingMonitor.dll
+/home/vm/CPU_LoadingMonitor/bin/Debug/netcoreapp1.1/CPU_LoadingMonitor.pdb
+/home/vm/CPU_LoadingMonitor/obj/Debug/netcoreapp1.1/CPU_LoadingMonitor.AssemblyInfo.cs
+/home/vm/CPU_LoadingMonitor/obj/Debug/netcoreapp1.1/CPU_LoadingMonitor.dll
+/home/vm/CPU_LoadingMonitor/obj/Debug/netcoreapp1.1/CPU_LoadingMonitor.pdb
